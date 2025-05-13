@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white)](https:/www.linkedin.com/in/daniel-gomez-benitez-05b62b292/) [![Gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielgomezbenitez29@gmail.com/)
+[![Linkedin](https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gomez-benitez-05b62b292/) [![Gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielgomezbenitez29@gmail.com/)
 
 </div>
 
