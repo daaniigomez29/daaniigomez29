@@ -1,4 +1,4 @@
-<h1 align="center">Hola! , soy Daniel Gómez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola! , Soy Daniel Gómez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
 
